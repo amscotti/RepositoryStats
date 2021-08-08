@@ -1,6 +1,6 @@
 # RepositoryStats
 
-![RepositoryStats Output](https://github.com/amscotti/RepositoryStats/blob/master/RepositoryStats?raw=true)
+![RepositoryStats Output](https://github.com/amscotti/RepositoryStats/blob/master/RepositoryStats.png?raw=true)
 
 A simple application using `LibGit2Sharp` to display stats of commits from a repository. The output is a list of users with the number of commits, dates for the first and last commit, and the number of days detween the dates sorted by the first commit date. This is an F# incarnation of a similar project I have done in different languages. I will say, thay this is my favorite version.
 
